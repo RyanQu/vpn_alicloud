@@ -1,5 +1,7 @@
 # vpn_alicloud
-use alicloud to build a vpn server in China
+use alicloud to build a `pptp` vpn server in China.
+
+When I finished the pptp config work, I found that the Mac OS Sierra didn't support `pptp` anymore...
 
 ##Brief
 Besides the fantastic part of studying abroad, there are really suck moments just as I found some apps like Netease Mucis and Xiami Music can't be used off the mainland China.
